@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "Personal Dashboard",
+    "version": "1.0.0",
+    "description": "New Tab screen",
+    "action": {
+        "default_icon": "home.png"
+    },
+    "chrome_url_overrides": {
+        "newtab": "index.html"
+    }
+}
